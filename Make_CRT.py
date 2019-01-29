@@ -1,4 +1,4 @@
-# KMJ
+# bearme1124
 # Created on Thu Jan 10 16:13:02 2019
 # use Image Module - Pillow
 import PIL.Image as pilimg
