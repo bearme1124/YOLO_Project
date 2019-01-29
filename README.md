@@ -1,17 +1,16 @@
 # Make_imgtxt_YOLO
 
-# This code makes 'Image Files' and 'Text Files' of YOLO Learning.
-# Using Python Image Library
+This code makes 'Image Files' and 'Text Files' of YOLO Learning.
+Using Python Image Library
+circle()
+triangle(,)
+square(,)
+rectangle(,)
+trapezoid(,)
+paralleogram(,)
+rhombus(,)
 
-# circle()
-# triangle(,)
-# square(,)
-# rectangle(,)
-# trapezoid(,)
-# paralleogram(,)
-# rhombus(,)
-
-# Class number of each figure
+- Class number of each figure
 1. Circle/not_C Network
 Circle = 0, Quadrangle = 1, Triangle = 1
 
